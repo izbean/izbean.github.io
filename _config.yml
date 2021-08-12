@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "mint" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Site Title"
+title                    : "개발 기록"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "강병헌"
-description              : "."
+description              : "공부 기록과 공유"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "강병헌"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "보기 좋지 않은 구조, 성능이 보이는 코드 리팩토링에 관심을 갖고 있고 끊임 없이 발전하려 노력하고있습니다."
   location         : "Seoul"
   email            :
   links:
