@@ -20,7 +20,7 @@ title                    : "izbean Dev Story"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "강병헌"
-description              : "개발로 밥 머곡 사는 사람"
+description              : "개발로 밥 먹고 사는 사람"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
