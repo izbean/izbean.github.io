@@ -1,6 +1,7 @@
 ---
-title: "Posts by Category"
+title: "카테고리"
 layout: categories
 permalink: /categories/
+sidebar_main: true
 author_profile: true
 ---

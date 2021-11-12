@@ -1,13 +1,11 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Categories"
+  - title: "홈"
+    url: /
+  - title: "카테고리"
     url: /categories/
-  - title: "Tags"
+  - title: "태그"
     url: /tags/
-  - title: "Posts"
-    url: /posts/
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
