@@ -15,6 +15,9 @@
                     {% if category[0] == "Spring" %}
                         <li><a href="/categories/spring" class="">Spring ({{category[1].size}})</a></li>
                     {% endif %}
+					{% if category[0] == "JPA" %}
+                        <li><a href="/categories/jpa" class="">JPA ({{category[1].size}})</a></li>
+                    {% endif %}
                 {% endfor %}
             </ul>
         <span class="nav__sub-title">JAVASCRIPT/ReactJS</span>
